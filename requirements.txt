@@ -1,0 +1,10 @@
+streamlit
+torch
+langchain
+langchain_huggingface
+langchain_core
+langchain_text_splitters
+langchain_community
+numpy
+unstructured
+faiss-gpu
